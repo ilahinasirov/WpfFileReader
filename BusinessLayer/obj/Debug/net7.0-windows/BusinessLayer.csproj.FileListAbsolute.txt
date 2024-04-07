@@ -1,0 +1,17 @@
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\BusinessLayer.deps.json
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\BusinessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\BusinessLayer.pdb
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.AssemblyInfo.cs
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.csproj.CopyComplete
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\refint\BusinessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\BusinessLayer.pdb
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\obj\Debug\net7.0-windows\ref\BusinessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\Core.dll
+C:\Users\Nasirov\source\repos\WPF\BusinessLayer\bin\Debug\net7.0-windows\Core.pdb

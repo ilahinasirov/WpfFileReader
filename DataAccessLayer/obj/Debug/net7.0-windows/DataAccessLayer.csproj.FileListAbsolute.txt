@@ -1,0 +1,15 @@
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\bin\Debug\net7.0-windows\DataAccessLayer.deps.json
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\bin\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\bin\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\refint\DataAccessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.pdb
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\ref\DataAccessLayer.dll
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\bin\Debug\net7.0-windows\Core.dll
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\bin\Debug\net7.0-windows\Core.pdb
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Nasirov\source\repos\WPF\DataAccessLayer\obj\Debug\net7.0-windows\DataAccessLayer.csproj.CopyComplete

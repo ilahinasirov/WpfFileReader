@@ -1,0 +1,11 @@
+C:\Users\Nasirov\source\repos\WPF\Core\bin\Debug\net7.0-windows\Core.deps.json
+C:\Users\Nasirov\source\repos\WPF\Core\bin\Debug\net7.0-windows\Core.dll
+C:\Users\Nasirov\source\repos\WPF\Core\bin\Debug\net7.0-windows\Core.pdb
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\Core.AssemblyInfoInputs.cache
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\Core.AssemblyInfo.cs
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\Core.csproj.CoreCompileInputs.cache
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\Core.dll
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\refint\Core.dll
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\Core.pdb
+C:\Users\Nasirov\source\repos\WPF\Core\obj\Debug\net7.0-windows\ref\Core.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWLZYwk71bgA9BxjukwbPjJa5RFoKUNBTBUt/SLR7VXSdJ6RB4v2PHBAiROkG6+xwJ9YLldz8Br3g5KD5a29Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nasirov\\source\\repos\\WPF\\WPF\\WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nasirov\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nasirov\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
